@@ -21,8 +21,8 @@ docker pull neredera/docker-mediawiki-ldap
 
 | Tag    | Description                                                                                                   | Size                                                                                                                             |
 |--------|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| latest | Latest master build                                                                                           | ![Size](https://shields.beevelop.com/docker/image/image-size/neredera/docker-mediawiki-ldap/latest.svg?style=flat-square) |
-| 1.34.2 | Release matching to mediawiki [1.34.2](https://github.com/neredera/docker-mediawiki-ldap/releases/tag/1.34.2) | ![Size](https://shields.beevelop.com/docker/image/image-size/neredera/docker-mediawiki-ldap/1.32.2.svg?style=flat-square) |
+| latest | Latest master build                                                                                           | ![Size](https://shields.beevelop.com/docker/image/image-size/neredera/mediawiki-ldap/latest.svg?style=flat-square) |
+| 1.34.2 | Release matching to mediawiki [1.34.2](https://github.com/neredera/docker-mediawiki-ldap/releases/tag/1.34.2) | ![Size](https://shields.beevelop.com/docker/image/image-size/neredera/mediawiki-ldap/1.34.2.svg?style=flat-square) |
 
 ### Volumes
 
