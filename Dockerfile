@@ -1,5 +1,5 @@
 # from https://hub.docker.com/_/mediawiki
-FROM mediawiki:1.34.2
+FROM mediawiki:1.36.2
 
 # Add extensions:
 
